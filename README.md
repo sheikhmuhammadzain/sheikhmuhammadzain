@@ -1,129 +1,142 @@
-# Hi there, I'm Muhammad Zain 👋
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=2E9BF3&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B+I'm+Muhammad+Zain;Gen-AI+Engineer+%F0%9F%A4%96;Full+Stack+Architect+%F0%9F%92%BB;Building+the+Future+of+AI+%F0%9F%9A%80" alt="Typing SVG" />
+</div>
 
-## 🚀 Gen-AI Engineer | Full Stack Developer | AI Innovator
+<div align="center">
+  <h3 align="center">🚀 Transforming Research into Production-Grade AI Systems</h3>
+</div>
 
-I'm a Gen-AI Engineer and full-stack MERN developer building **production-grade AI systems** that deliver real business value. With 3+ years of experience in LLM pipelines, RAG systems, and modern web development, I help companies transform AI research into scalable applications.
-
----
-
-### 💡 What I Do
-
-- 🤖 **AI & Machine Learning**: Building RAG pipelines & AI agents serving 1M+ requests with 99.9% uptime
-- 🧠 **Advanced AI**: LoRA fine-tuning, RLHF, vector databases, Triton inference optimization
-- 💬 **Conversational AI**: Data analysis agent expert & chatbot specialist
-- 🔄 **Automation**: n8n workflow automation & agent orchestration for enterprise solutions
-- 🌐 **Full Stack**: TypeScript, Next.js SSR, Node.js microservices, Kubernetes deployment
-- ⚡ **Performance**: Delivering AI features with sub-200ms latency
-
----
-
-### 🛠️ Tech Stack
-
-**AI & Machine Learning**
-```
-Python • TensorFlow • PyTorch • LangChain • OpenAI • Gemini AI
-Stable Diffusion • NLP • Vector Databases • RAG Systems
-```
-
-**Full Stack Development**
-```
-JavaScript/TypeScript • React.js • Next.js • Node.js • Express
-MongoDB • Supabase • REST APIs • Docker • Kubernetes
-```
-
-**Styling & Animation**
-```
-Tailwind CSS • Framer Motion • Responsive Design
-```
+<p align="center">
+  <a href="https://linkedin.com/in/muhammadzainafzal">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:zain@zainafzal.dev">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://zainafzal.dev">
+    <img src="https://img.shields.io/badge/Portfolio-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  </a>
+</p>
 
 ---
 
-### 🎯 Featured Projects
+### 👨‍💻 About Me
 
-#### 🤖 [UOL AI Powered Chat App](https://github.com/yourusername/uol-ai-chat)
-Modern AI-powered chat application with Slide to AI Reply, UOL GPT, and real-time communication
-- **Tech**: React, TypeScript, Stable Diffusion, Framer Motion
+I am a **Gen-AI Engineer** and **Full-Stack MERN Developer** with a passion for building intelligent systems that deliver real business value. With **3+ years of experience**, I specialize in bridging the gap between cutting-edge AI research and scalable web applications.
 
-#### 📚 [IET Study Hub](https://github.com/yourusername/iet-study-hub)
-Full-stack study platform with AI-powered features, centralized study materials, and Gemini AI integration
-- **Tech**: React, TypeScript, Supabase, Gemini AI
-
-#### 🎨 [AI Image Generator](https://github.com/yourusername/ai-image-generator)
-Web application for generating images using Stable Diffusion models
-- **Tech**: React, TypeScript, Stable Diffusion
-
-#### 📝 [Drawing Math Solver](https://github.com/yourusername/drawing-math-solver)
-Innovative math problem solver using canvas drawing and AI recognition
-- **Tech**: React, TypeScript, Tesseract OCR, Gemini AI
-
-#### 🤖 [Studdy Buddy ChatBot](https://github.com/yourusername/studdy-buddy)
-AI-powered educational chatbot providing personalized learning assistance
-- **Tech**: React, TypeScript, NLP, AI
+* 🔭 **I’m currently working on:** Scalable RAG systems for enterprise clients & advanced LLM Fine-tuning.
+* ⚡ **My Superpower:** Delivering AI features with **sub-200ms latency** and **99.9% uptime**.
+* 🤝 **I’m looking to collaborate on:** Open-source AI agents and Neuro-symbolic AI projects.
 
 ---
 
+### 🛠️ The Arsenal (Tech Stack)
 
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/nextjs-icon.svg" alt="icon" width="65" height="65" />
+      <br>Next.js
+    </td>
+     <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="icon" width="65" height="65" />
+      <br>TensorFlow
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="icon" width="60" height="65" />
+      <br>PyTorch
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/langchain_logo_icon_170266.png" alt="icon" width="65" height="65" />
+      <br>LangChain
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" height="65" />
+      <br>K8s
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/mongo-icon.svg" alt="icon" width="65" height="65" />
+      <br>MongoDB
+    </td>
+     <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
+      <br>REST API
+    </td>
+  </tr>
+</table>
 
-### 🎓 Certifications
+**Core Competencies:**
+`RAG Pipelines` • `Agentic Workflows` • `LoRA Fine-tuning` • `RLHF` • `Triton Inference` • `n8n Automation`
 
-- 🏆 **Intro to AI Engineering** - Scrimba (2025)
-- 🏆 **Learn AI Agents** - Scrimba (2025)
-- 🏆 **Generative AI for Software Development** - DeepLearning.AI (2025)
-- 🏆 **Team Software Engineering with AI** - DeepLearning.AI (2025)
-- 🏆 **Crash Course on Python** - Google (2025)
-- 🏆 **Responsive Web Design** - freeCodeCamp (2024)
+---
+
+### 🏆 Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| 🤖 **[UOL AI Chat App](https://github.com/yourusername/uol-ai-chat)** | Modern AI chat app with "Slide to Reply", UOL GPT, and real-time comms. | `React` `TS` `Stable Diffusion` |
+| 📚 **[IET Study Hub](https://github.com/yourusername/iet-study-hub)** | Centralized study platform with integrated Gemini AI assistance. | `Supabase` `Gemini AI` `React` |
+| 🎨 **[AI Image Gen](https://github.com/yourusername/ai-image-generator)** | High-fidelity image generation web app using Stable Diffusion. | `React` `TS` `ML Models` |
+| 📝 **[Drawing Math](https://github.com/yourusername/drawing-math-solver)** | Solves math problems by recognizing canvas drawings via OCR. | `Tesseract OCR` `Gemini AI` |
+| 🎓 **[Studdy Buddy](https://github.com/yourusername/studdy-buddy)** | Personalized NLP-powered educational chatbot. | `NLP` `Python` `React` |
 
 ---
 
 ### 💼 Professional Experience
 
-**🔹 AI Engineer @ Cybergen** (2025 - Present)
-- Developing and deploying ML models and NLP solutions
-- Optimizing neural networks with TensorFlow and PyTorch
-- Integrating AI solutions via RESTful APIs
+#### **🔹 AI Engineer @ Cybergen** `2025 - Present`
+> *Developing and deploying ML models, optimizing Neural Networks with TensorFlow/PyTorch, and integrating AI via RESTful APIs.*
 
-**🔹 Full Stack Developer @ Tech Wizardz** (2024 - 2025)
-- Led team development of web applications
-- Implemented scalable REST APIs and MongoDB integration
-- Collaborated with stakeholders on project requirements
+#### **🔹 Full Stack Developer @ Tech Wizardz** `2024 - 2025`
+> *Led team development of scalable web apps, implemented complex MongoDB aggregations, and managed stakeholder requirements.*
 
 ---
 
-### 🌟 Open Source Contributions
+### 🎓 Certifications
 
-I actively contribute to the AI community through open-source tools and mentoring. Check out my repositories to see my latest work!
-
----
-
-### 📫 Let's Connect
-
-- 💼 **LinkedIn**: [Muhammad Zain](https://linkedin.com/in/muhammadzainafzal)
-- 📧 **Email**: zain@zainafzal.dev
-- 🌐 **Portfolio**: [Your Portfolio Website](https://zainafzal.dev)
-- 📱 **Phone**: +92 303 2224501
-- 📍 **Location**: Green Town, Lahore, Pakistan
+<div align="left">
+  <img src="https://img.shields.io/badge/Scrimba-Intro_to_AI_Engineering-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/DeepLearning.AI-Gen_AI_for_Devs-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Google-Crash_Course_on_Python-yellow?style=flat-square" />
+  <img src="https://img.shields.io/badge/freeCodeCamp-Responsive_Design-green?style=flat-square" />
+</div>
 
 ---
 
-### 🎯 Currently Working On
+### 📈 GitHub Stats
 
-- 🔨 Building scalable RAG systems for enterprise clients
-- 📚 Exploring advanced fine-tuning techniques for LLMs
-- 🚀 Contributing to open-source AI tools
-- 💡 Mentoring aspiring AI engineers
-
----
-
-### ⚡ Fun Fact
-
-I bridge the gap between cutting-edge AI research and real-world business solutions, turning AI visions into production reality! 🚀
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sheikhmuhammadzain&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Zain's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheikhmuhammadzain&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
 
 ---
 
-<p align="center">
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=sheikhmuhammadzain&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
-</p>
-
-<p align="center">
-  ⭐️ From <a href="https://github.com/yourusername">Muhammad Zain</a>
-</p>
+  <br>
+  <p><i>Let's build something incredible together.</i></p>
+</div>
