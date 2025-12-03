@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=2E9BF3&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B+I'm+Muhammad+Zain;Gen-AI+Engineer+%F0%9F%A4%96;Full+Stack+Architect+%F0%9F%92%BB;Building+the+Future+of+AI+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B+I'm+Muhammad+Zain;Gen-AI+Engineer+%F0%9F%A4%96;Full+Stack+Architect+%F0%9F%92%BB;Building+the+Future+of+AI+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -35,54 +35,78 @@ I am a **Gen-AI Engineer** and **Full-Stack MERN Developer** with a passion for 
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      <a href="https://python.org">
+        <img src="https://skillicons.dev/icons?i=python" width="65" height="65" alt="Python" />
+      </a>
       <br>Python
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+        <img src="https://skillicons.dev/icons?i=js" width="65" height="65" alt="JavaScript" />
+      </a>
       <br>JavaScript
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+      <a href="https://www.typescriptlang.org/">
+        <img src="https://skillicons.dev/icons?i=ts" width="65" height="65" alt="TypeScript" />
+      </a>
       <br>TypeScript
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+      <a href="https://react.dev/">
+        <img src="https://skillicons.dev/icons?i=react" width="65" height="65" alt="React" />
+      </a>
       <br>React
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/nextjs-icon.svg" alt="icon" width="65" height="65" />
+      <a href="https://nextjs.org/">
+        <img src="https://skillicons.dev/icons?i=nextjs" width="65" height="65" alt="Next.js" />
+      </a>
       <br>Next.js
     </td>
-     <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="icon" width="65" height="65" />
+    <td align="center" width="96">
+      <a href="https://www.tensorflow.org/">
+        <img src="https://skillicons.dev/icons?i=tensorflow" width="65" height="65" alt="TensorFlow" />
+      </a>
       <br>TensorFlow
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="icon" width="60" height="65" />
+      <a href="https://pytorch.org/">
+        <img src="https://skillicons.dev/icons?i=pytorch" width="65" height="65" alt="PyTorch" />
+      </a>
       <br>PyTorch
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/langchain_logo_icon_170266.png" alt="icon" width="65" height="65" />
+      <a href="https://www.langchain.com/">
+        <img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="65" height="65" alt="LangChain" />
+      </a>
       <br>LangChain
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
+      <a href="https://www.docker.com/">
+        <img src="https://skillicons.dev/icons?i=docker" width="65" height="65" alt="Docker" />
+      </a>
       <br>Docker
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" height="65" />
+      <a href="https://kubernetes.io/">
+        <img src="https://skillicons.dev/icons?i=kubernetes" width="65" height="65" alt="Kubernetes" />
+      </a>
       <br>K8s
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/mongo-icon.svg" alt="icon" width="65" height="65" />
+      <a href="https://www.mongodb.com/">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB" />
+      </a>
       <br>MongoDB
     </td>
-     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
-      <br>REST API
+    <td align="center" width="96">
+      <a href="https://nodejs.org/">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="Node.js" />
+      </a>
+      <br>Node.js
     </td>
   </tr>
 </table>
@@ -121,16 +145,6 @@ I am a **Gen-AI Engineer** and **Full-Stack MERN Developer** with a passion for 
   <img src="https://img.shields.io/badge/DeepLearning.AI-Gen_AI_for_Devs-orange?style=flat-square" />
   <img src="https://img.shields.io/badge/Google-Crash_Course_on_Python-yellow?style=flat-square" />
   <img src="https://img.shields.io/badge/freeCodeCamp-Responsive_Design-green?style=flat-square" />
-</div>
-
----
-
-### 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sheikhmuhammadzain&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Zain's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheikhmuhammadzain&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
